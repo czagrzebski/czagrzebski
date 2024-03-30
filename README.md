@@ -11,9 +11,3 @@ Additionally, I possess a strong affinity for Computer-Aided Design (CAD) across
 
 </p>
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=czagrzebski&theme=tokyonight&count_private=true&show_icons=true" alt="Creed Zagrzebski's Stats"> 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=czagrzebski&show_icons=true&theme=city_lights&count_private=true&layout=compact" alt="Creed Zagrzebski Languages" />
-
-</p>
